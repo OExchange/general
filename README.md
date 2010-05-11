@@ -6,4 +6,4 @@ Miscellaneous collateral related to the development of the spec.  Actual code is
 Contributing
 ------------
 
-Join [the discussion](http://groups.google.com/group/exchange) .
+Join [the discussion](http://groups.google.com/group/oexchange) .
