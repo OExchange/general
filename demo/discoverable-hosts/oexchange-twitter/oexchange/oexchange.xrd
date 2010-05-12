@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<XRD xmlns='http://docs.oasis-open.org/ns/xri/xrd-1.0'>
+  <Subject>http://www.twitter.com</Subject>
+  <Property type='http://www.oexchange.org/spec/0.8/prop/vendor'>Twitter</Property>
+  <Property type='http://www.oexchange.org/spec/0.8/prop/title'>Twitter</Property>
+  <Property type='http://www.oexchange.org/spec/0.8/prop/name'>Twitter</Property>
+  <Property type='http://www.oexchange.org/spec/0.8/prop/prompt'>Tweet this</Property>
+  <Link 
+    rel='icon'
+    href='http://twitter.com/favicon.ico'
+    type='image/png'
+  />
+  <Link 
+    rel='icon32'
+    href='http://oexchange-twitter.appspot.com/images/logo_32x32.png'
+    type='image/png'
+  />
+  <Link 
+    rel='http://www.oexchange.org/spec/0.8/rel/offer'
+    href='http://oexchange-twitter.appspot.com/offer'
+    type='text/html'
+  />
+</XRD>

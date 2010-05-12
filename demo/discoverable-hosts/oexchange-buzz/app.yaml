@@ -1,0 +1,19 @@
+application: oexchange-buzz
+version: 1
+runtime: python
+api_version: 1
+
+handlers:
+- url: /.well-known
+  static_dir: well-known
+  mime_type: application/xrd+xml
+
+- url: /buzz
+  static_dir: buzz
+  mime_type: application/xrd+xml
+
+- url: /images
+  static_dir: images
+
+- url: .*
+  script: main.py

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<XRD xmlns='http://docs.oasis-open.org/ns/xri/xrd-1.0'>
+  <Subject>http://delicious.com</Subject>
+  <Property type='http://www.oexchange.org/spec/0.8/prop/vendor'>Yahoo</Property>
+  <Property type='http://www.oexchange.org/spec/0.8/prop/title'>Delicious</Property>
+  <Property type='http://www.oexchange.org/spec/0.8/prop/name'>Delicious</Property>
+  <Property type='http://www.oexchange.org/spec/0.8/prop/prompt'>Save on Delicious</Property>
+  <Link 
+    rel='icon'
+    href='http://delicious.com/favicon.ico'
+    type='image/png'
+  />
+  <Link 
+    rel='icon32'
+    href='http://oexchange-delicious.appspot.com/images/logo_32x32.png'
+    type='image/png'
+  />
+  <Link 
+    rel='http://www.oexchange.org/spec/0.8/rel/offer'
+    href='http://delicious.com/save'
+    type='text/html'
+  />
+</XRD>

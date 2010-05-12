@@ -1,0 +1,19 @@
+application: oexchange-digg
+version: 1
+runtime: python
+api_version: 1
+
+handlers:
+- url: /.well-known
+  static_dir: well-known
+  mime_type: application/xrd+xml
+   
+- url: /oexchange
+  static_dir: oexchange
+  mime_type: application/xrd+xml
+
+- url: /images
+  static_dir: images
+
+- url: .*
+  script: main.py

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<XRD xmlns='http://docs.oasis-open.org/ns/xri/xrd-1.0'>
+  <Subject>http://delicious.com</Subject>
+  <Property type='http://www.oexchange.org/spec/0.8/prop/vendor'>Facebook</Property>
+  <Property type='http://www.oexchange.org/spec/0.8/prop/title'>Facebook</Property>
+  <Property type='http://www.oexchange.org/spec/0.8/prop/name'>Facebook</Property>
+  <Property type='http://www.oexchange.org/spec/0.8/prop/prompt'>Share to Facebook</Property>
+  <Link 
+    rel='icon'
+    href='http://facebook.com/favicon.ico'
+    type='image/png'
+  />
+  <Link 
+    rel='icon32'
+    href='http://oexchange-facebook.appspot.com/images/logo_32x32.png'
+    type='image/png'
+  />
+  <Link 
+    rel='http://www.oexchange.org/spec/0.8/rel/offer'
+    href='http://oexchange-facebook.appspot.com/offer'
+    type='text/html'
+  />
+</XRD>

@@ -1,7 +1,9 @@
 What's Here?
 ------------
 
-Miscellaneous collateral related to the development of the spec.  Actual code is in other repos in the OExchange account, such as [www.oexchange.org](http://github.com/OExchange/www.oexchange.org) .
+Miscellaneous collateral and loose-ends code related to the development of the spec.  
+
+Most actual code is in other repos in the OExchange account, such as [www.oexchange.org](http://github.com/OExchange/www.oexchange.org) .
 
 Contributing
 ------------
