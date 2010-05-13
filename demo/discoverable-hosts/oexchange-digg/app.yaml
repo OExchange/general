@@ -4,6 +4,7 @@ runtime: python
 api_version: 1
 
 handlers:
+
 - url: /.well-known
   static_dir: well-known
   mime_type: application/xrd+xml
@@ -15,5 +16,9 @@ handlers:
 - url: /images
   static_dir: images
 
-- url: .*
-  script: main.py
+- url: /css
+  static_dir: css
+
+- url: /
+  static_files: index.html
+  upload: index.html
