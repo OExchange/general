@@ -1,26 +1,18 @@
 body {
-	background: #fff;
-	padding: 80px;
-	text-align: center;
+	background: #fff url(../images/bkg-page.jpg) no-repeat 0 0;
+	padding: 80px 0 0;
+	margin: 0;
 	line-height: 1.6em;
-	font-family: georgia,helvetica,arial,verdana,sans-serif;
+	font-family: arial,helvetica,verdana,sans-serif;
 	font-size: 14px;
 	color: #666;
 }
 #wrapper {
-	width: 800px;
-	margin: 0 auto;
+	width: 700px;
+	margin-left: 240px;
 	text-align: left;
 }
-.side {
-	width: 180px;
-	padding-top: 22px;
-	float: left;
-}
-.content {
-	width: 620px;
-	float: right;
-}
+
 
 a {
 	color: #1e8eef;
@@ -29,8 +21,11 @@ a:hover {
 	color: #0661b0;
 }
 h1 {
-	margin-bottom: 50px;
-	font-family: "helvetica neue",helvetica,arial,verdana,sans-serif;
-	font-size: 36px;
+	background: url(../images/logo_32x32.png) no-repeat left;
+	padding-left: 40px;
+	line-height: 32px;
+	font-size: 32px;
 	color: #000;
 }
+
+hr { border: none 0; border-top: 4px solid #eee; height: 1px; margin: 40px 0; padding: 0; }
