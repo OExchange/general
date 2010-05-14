@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <XRD xmlns='http://docs.oasis-open.org/ns/xri/xrd-1.0'>
-  <Subject>http://delicious.com</Subject>
+  <Subject>http://www.facebook.com</Subject>
   <Property type='http://www.oexchange.org/spec/0.8/prop/vendor'>Facebook</Property>
   <Property type='http://www.oexchange.org/spec/0.8/prop/title'>Facebook</Property>
   <Property type='http://www.oexchange.org/spec/0.8/prop/name'>Facebook</Property>
